@@ -3,7 +3,7 @@
 ### 📚 Currently Learning
 - Frontend: HTML, CSS, JavaScript, React
 
-Skills: HTML / CSS / JS
+Skills: HTML / CSS
 
 - 🌱 I’m currently learning Web Development 
 
