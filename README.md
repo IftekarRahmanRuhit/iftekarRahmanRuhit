@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Iftekar Rahman Ruhit
 👋 Hi there! I'm Iftekar Rahman Ruhit, a passionate web development enthusiast on a journey to build amazing web applications. I'm currently diving deep into the world of web technologies and continuously learning new skills to enhance my development toolkit.
-### 🌱 Currently Learning
+### 📚 Currently Learning
 - Frontend: HTML, CSS, JavaScript, React
 
 Skills: HTML / CSS / JS
