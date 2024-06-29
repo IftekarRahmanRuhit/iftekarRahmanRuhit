@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi there! I'm Iftekar Rahman Ruhit, an aspiring web developer with a passion for creating innovative web applications. I'm currently diving deep into HTML, CSS, JavaScript, and modern frameworks like React. Continuously learning and expanding my skillset.</h3>
+<h4 align="left">👋 Hi there! I'm Iftekar Rahman Ruhit, an aspiring web developer with a passion for creating innovative web applications. I'm currently diving deep into HTML, CSS, JavaScript, and modern frameworks like React. Continuously learning and expanding my skillset.</h4>
 
 ###
 
@@ -35,21 +35,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iftekarrahmanruhit/iftekarrahmanruhit/main/github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/iftekar-rahman-ruhit-837aa330a"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href="https://www.facebook.com/profile.php?id=100076078661745"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
   <a href="mailto:iftekarrahmanruhit2003@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Vaunt&logo=vaunt&label=&color=6200EA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="vaunt logo" />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://github.com/iftekarrahmanruhit">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
+  </a>
+</div>
