@@ -1,7 +1,9 @@
 ![logo](https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/Banner.png)
 <h3 align="left">👋 Hi there! I'm Iftekar Rahman Ruhit, an aspiring web developer with a passion for creating innovative web applications. I'm currently diving deep into HTML, CSS, JavaScript, and modern frameworks like React. Continuously learning and expanding my skillset.</h3>
-
-###
+<div align="center">
+  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/line.gif" alt="" />
+  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/line.gif" alt="" />
+</div> <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftekarrahmanruhit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -16,7 +18,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+<img align="right" height="150" src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/coding%20vibe.gif"  />
 
 ###
 
@@ -50,4 +52,7 @@
   <a href="https://github.com/iftekarrahmanruhit">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
   </a>
+</div> <br>
+<div align="center">
+  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/git%20image.gif" alt="" />
 </div>
