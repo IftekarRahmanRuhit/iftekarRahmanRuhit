@@ -27,7 +27,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="30" alt="tailwind logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://149860134.v2.pressablecdn.com/wp-content/uploads/mongo.png" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
