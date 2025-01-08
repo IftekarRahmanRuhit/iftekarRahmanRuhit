@@ -1,5 +1,5 @@
 ![logo](https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/Github%20banner.png)
-<h3 align="center">👋 Hi there! I'm Iftekar Rahman Ruhit, a Junior Frontend Developer with a passion for creating innovative web applications. Skilled in HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, and MongoDB, with a strong focus on modern technologies and best practices. Currently, I’m diving deeper into React, Node.js, Express.js and MongoDB, honing my expertise in mern stack development.</h3>
+<h3 align="center">👋 Hi there! I'm Iftekar Rahman Ruhit, a Junior Frontend Developer passionate about crafting innovative and user-friendly web applications. I am skilled in HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, and MongoDB, with a strong focus on modern technologies and best practices. Currently, I’m deepening my expertise in MERN stack development by honing my skills in React, Node.js, Express.js, and MongoDB.</h3>
 <div align="center">
   <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/line.gif" alt="" />
   <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/line.gif" alt="" />
