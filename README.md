@@ -1,4 +1,4 @@
-![logo](https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/Banner.png)
+![logo](https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/Github%20banner.png)
 <h3 align="left">👋 Hi there! I'm Iftekar Rahman Ruhit, an aspiring web developer with a passion for creating innovative web applications. Skilled in HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, and MongoDB, with a strong focus on modern technologies and best practices. Currently, I’m diving deeper into React, Node.js, Express.js and MongoDB, honing my expertise in mern stack development.</h3>
 <div align="center">
   <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/line.gif" alt="" />
