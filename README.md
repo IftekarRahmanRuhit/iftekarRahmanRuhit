@@ -1,66 +1,96 @@
-![logo](https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/Github%20banner.png)
-<h3 align="center">👋 Hi there! I'm Iftekar Rahman Ruhit, a Junior Frontend Developer passionate about crafting innovative and user-friendly web applications. I am skilled in HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, and MongoDB, with a strong focus on modern technologies and best practices. Currently, I’m deepening my expertise in MERN stack development by honing my skills in React, Node.js, Express.js, and MongoDB.</h3>
 <div align="center">
-  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/line.gif" alt="" />
-  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/line.gif" alt="" />
-</div> <br>
+  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/Github%20banner.png" alt="Iftekar Rahman Ruhit's GitHub Banner" width="100%">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IftekarRahmanRuhit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IftekarRahmanRuhit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  # Iftekar Rahman Ruhit
+  ### Junior Frontend Developer | MERN Stack Developer
+
+  <p>
+    👋 Hi there! I'm a passionate developer focused on building innovative and user-friendly web applications. 
+    With expertise in HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, and MongoDB, I create modern, 
+    efficient solutions with a strong emphasis on best practices. Currently deepening my expertise in 
+    MERN stack development while exploring new technologies and methodologies.
+  </p>
+
+  ### 📬 Connect With Me
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iftekar-rahman-ruhit/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iftekarrahmanruhit2003@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076078661745)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iftekarrahmanruhit)
 </div>
 
-###
+---
+
+## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iftekarrahmanruhit&theme=dracula&no-frame=false&margin-w=15" alt="trophies" />
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Zen UI](https://img.shields.io/badge/Zen_UI-%23775BA3.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 </div>
 
-###
-
-<img align="right" height="170" src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/coding.gif"  />
-
-###
-![](https://komarev.com/ghpvc/?username=IftekarRahmanRuhit&color=green)
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" height="30" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://149860134.v2.pressablecdn.com/wp-content/uploads/mongo.png" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/iftekar-rahman-ruhit/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://www.facebook.com/profile.php?id=100076078661745"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
-  <a href="mailto:iftekarrahmanruhit2003@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-</div>
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <a href="https://github.com/iftekarrahmanruhit">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
-  </a>
-</div> <br>
-<div align="center">
-  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/git%20image.gif" alt="" />
+  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/coding.gif" alt="Coding Animation" align="right" width="300">
 </div>
+
+## 🚀 What I Do
+
+- 🔭 Building responsive and dynamic web applications
+- 🌱 Exploring advanced MERN stack development
+- 💡 Creating intuitive user interfaces with React
+- 🛠️ Developing robust backend solutions
+- 📱 Crafting mobile-first, responsive designs
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IftekarRahmanRuhit&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IftekarRahmanRuhit&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iftekarrahmanruhit&theme=dracula&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on exciting projects and discussing new opportunities. Feel free to reach out through any of the following channels:
+
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/iftekar-rahman-ruhit/)
+- 📧 Email me at [iftekarrahmanruhit2003@gmail.com](mailto:iftekarrahmanruhit2003@gmail.com)
+- 👥 Follow me on [Facebook](https://www.facebook.com/profile.php?id=100076078661745)
+- 🌐 Check out my work on [GitHub](https://github.com/iftekarrahmanruhit)
+- 🎯 View my [Portfolio](https://iftekar-rahman-ruhit.netlify.app/)
+
+<div align="center">
+  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/git%20image.gif" alt="GitHub Activity" width="100%">
+</div>
+
+
+
+
+
+
+
+
+
