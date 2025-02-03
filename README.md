@@ -83,7 +83,7 @@ I'm always interested in collaborating on exciting projects and discussing new o
 - 🎯 View my [Portfolio](https://iftekar-rahman-ruhit.netlify.app/)
 
 <div align="center">
-  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/git%20image.gif" alt="GitHub Activity" width="100%">
+  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/git%20image.gif" alt="GitHub Activity" width="80%">
 </div>
 
 
