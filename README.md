@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/Github%20banner.png" alt="Iftekar Rahman Ruhit's GitHub Banner" width="100%">
+  <img src="https://github.com/IftekarRahmanRuhit/iftekarRahmanRuhit/blob/main/Gtihub-banner.png" alt="Iftekar Rahman Ruhit's GitHub Banner" width="100%">
 
   # Iftekar Rahman Ruhit
-  ### Junior Frontend Developer | MERN Stack Developer
+  ### MERN Stack Developer | Junior Frontend Developer
 
   <p>
     👋 Hi there! I'm a passionate developer focused on building innovative and user-friendly web applications. 
